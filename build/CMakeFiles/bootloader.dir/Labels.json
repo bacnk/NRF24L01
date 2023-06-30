@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

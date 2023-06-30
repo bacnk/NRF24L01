@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/CMakeFiles/bootloader-complete.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Bacnk_2023/ESP32_IDF/2.4_GHZESP32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
