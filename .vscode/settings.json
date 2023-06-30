@@ -14,6 +14,7 @@
     "idf.pythonBinPathWin": "d:\\Bacnk_2023\\LIB_esp32\\tool\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "d:\\Bacnk_2023\\LIB_esp32\\tool",
     "files.associations": {
-        "nrf24l01.h": "c"
+        "nrf24l01.h": "c",
+        "stdlib.h": "c"
     }
 }
